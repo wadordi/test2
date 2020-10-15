@@ -1,2 +1,3 @@
 
 echo hoge
+echo hoge
